@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=unavailable&up_color=green&up_message=available&url=https%3A%2F%2Fpesel.ga)](https://pesel.ga)
 ![License MIT](https://img.shields.io/github/license/ChimekKoo/peseldecoder)
 
-Simple PESEL decoder in pure static HTML/JS.
+Simple single-file PESEL decoder website.
 
 ## Installation
 Clone repo:
